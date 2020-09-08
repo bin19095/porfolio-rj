@@ -1,0 +1,132 @@
+{
+  "main": {
+    "name": "Binay Maharjan",
+    "occupation": "ReactJS Developer && Instructor @StalioneCompany",
+    "description": "Front End React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "image": "im_bm.png",
+    "bio": "My name is Binay, I'm a Full Stack ReactJS Developer. Currently I'm working at Stalione Company while I am also coaching at NIIT",
+    "contactmessage": "Get in touch with me to complete your business site, get coached or anything else.",
+    "email": "BinayMaharjan12@gmail.com",
+    "phone": "+644-451278044",
+    "address": {
+      "street": "Fourth Avenue",
+      "city": "Sydney",
+      "state": "Australia",
+      "zip": "2174"
+    },
+    "website": "http://www.binayprofile.com",
+    "resumedownload": "http://binayprofile.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/binays.world",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "www.linkedin.com/in/binay-maharjan-994627168",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/binay3752/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/bin19095",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Been 2 years as Front-End Developer",
+    "education": [
+      {
+        "school": "Federation University",
+        "degree": "Masters Of Information Technology",
+        "graduated": "December 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Stalione Company",
+        "title": "Team Member && React Specialist",
+        "years": "January 2020 - Present",
+        "description": "Real-Time project developer"
+      },
+      {
+        "company": "AirKeeper",
+        "title": "Software Engineer",
+        "years": "Feb 2020 -  Present",
+        "description": "Building E-Commerce Websites."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "55%"
+      },
+      {
+        "name":"GraphQL",
+        "level": "45%"
+
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "IMDB-clone Application",
+        "category": "WhatsApp Clone built with MERN (IMDB-API,Redux,Bootstrap,ReactJS, AWS amplify)",
+        "image": "imdb.jpg",
+        "url": "https://github.com/bin19095/Movie-app-IMDB  "
+      },
+      {
+        "title": "covid-19 Tracker Application",
+        "category": "TikTok Clone built with MERN (AXIOS-covid-19-API, Material-UI, ReactJS, NodeJS, ChartJS Library)",
+        "image": "covid-19.webp",
+        "url": "https://github.com/bin19095/Covid-19-tracker "
+      },
+      {
+        "title": "Resort-app clone",
+        "category": "Resort Clone built with ReactJS",
+        "image": "resort.webp",
+        "url": "https://github.com/bin19095/resort-app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "A team lead player can't deny his effort to get in your team as leader is it's like together against the problem",
+        "user": "Racheet Shrestha"
+      },
+      {
+        "text": "One of the collaborative person that you can enjoy with, very quick learner. ",
+        "user": "Sailab Tilwani"
+      }
+    ]
+  }
+}
